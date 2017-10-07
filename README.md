@@ -1,5 +1,5 @@
-# hello-world
-My First Repository
+# helloWorld
+### My First Repository
 
 
 The name is Tanaka.
